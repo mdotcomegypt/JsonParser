@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/team_placeholder.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/team_placeholder.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/icn_match_rcard.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/icn_match_rcard.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/follow_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/follow_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/event_border_left.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/event_border_left.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/pitch_bg_trans.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/pitch_bg_trans.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_schedule.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_schedule.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/icn_outline.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/icn_outline.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/icn_sports.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/icn_sports.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/splashlogo.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/splashlogo.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/rounded_button.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/ic_sync_black_24dp.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/table_border_top.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/table_border_top.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/statsprogress.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/statsprogress.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/flag_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/flag_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/event_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/event_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/placeholder.jpg",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/placeholder.jpg"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/h2hprogress_bg.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/h2hprogress_bg.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/follow_button.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/follow_button.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bklogo.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bklogo.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/match_arrow_to_right.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/match_arrow_to_right.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/card_transparent_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/card_transparent_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/pitch_transparent_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/pitch_transparent_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/statsprogress_a.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/statsprogress_a.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_fulltime.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_fulltime.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/border_right.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/border_right.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/event_border_right.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/event_border_right.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/no_internet.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/no_internet.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_halftime.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_halftime.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/shirt_lbg.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/shirt_lbg.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/ryc_icn.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/ryc_icn.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/drawer_top_gradient.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/drawer_top_gradient.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_goal.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_goal.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/follow_button_active.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/follow_button_active.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/timer.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/timer.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/suggestion_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/suggestion_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/h2hprogress.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/h2hprogress.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/score_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/score_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_pen_miss.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_pen_miss.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/lineup_border_top.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/lineup_border_top.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/icn_notification.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/icn_notification.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/stats_border_bottom.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/stats_border_bottom.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/match_transparent_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/match_transparent_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/score_icn.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/score_icn.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/border_bottom.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/border_bottom.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/lineup_background_a.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/lineup_background_a.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/reload.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/reload.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_lineup.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_lineup.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/ic_share.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/ic_share.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_pen_goal.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_pen_goal.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/match_arrow_to_left.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/match_arrow_to_left.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/selected_borders.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/selected_borders.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/white_circle.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/white_circle.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/ic_play.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/ic_play.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/circle_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/circle_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_kickoff.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_kickoff.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/cal_active_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/cal_active_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/selected_item.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/selected_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/icn_match_ycard.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/icn_match_ycard.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/status_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/status_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/shirt_rbg.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/shirt_rbg.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/icn_fullscreen.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/icn_fullscreen.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/card_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/card_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/statsprogress_b.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/statsprogress_b.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/bc_icn_owngoal.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable/bc_icn_owngoal.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    }
+]

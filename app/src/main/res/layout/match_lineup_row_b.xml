@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginBottom="2dp"
+    android:background="@color/lineUpBG">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="ltr"
+        android:orientation="horizontal">
+
+
+
+
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:scaleType="centerCrop"
+            android:textAlignment="gravity" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:layoutDirection="ltr"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="4dp"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="Player Name"
+                android:textColor="@color/lineUpName"
+                android:textSize="12dp"
+
+                />
+
+            <TextView
+                android:id="@+id/position"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginLeft="5dp"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="position"
+                android:textColor="@color/lineUpPosition"
+                android:textSize="11dp"
+
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:gravity="right">
+
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:ellipsize="marquee"
+            android:maxLines="1"
+            android:text="55"
+            android:textColor="@color/lineUpNumber"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:padding="3dp"
+
+            />
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

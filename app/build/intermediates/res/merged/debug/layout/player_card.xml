@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="1dp"
+    card_view:cardElevation="5dp"
+    card_view:cardMaxElevation="5dp"
+    card_view:cardPreventCornerOverlap="false"
+    card_view:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:elevation="5dp"
+            card_view:cardCornerRadius="35dp"
+            android:innerRadius="0dp"
+            android:shape="ring">
+            <ImageView
+                android:layout_height="70dp"
+                android:layout_width="match_parent"
+                android:id="@+id/image"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/team_placeholder">
+            </ImageView>
+        </android.support.v7.widget.CardView>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:layoutDirection="ltr"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="5dp"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="Player Name"
+                android:textAlignment="center"
+                android:textColor="@color/lineUpName"
+                android:textSize="12dp"
+
+                />
+
+            <TextView
+                android:id="@+id/position"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="position"
+                android:textAlignment="center"
+                android:textColor="@color/lineUpPosition"
+                android:textSize="11dp"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/appearances"
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="55"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+
+            <TextView
+                android:id="@+id/appearances_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="@string/appearances_number"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="11dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/goals"
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="55"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+
+            <TextView
+                android:id="@+id/goals_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="@string/goals_number"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="11dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/number"
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="55"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+
+            <TextView
+                android:id="@+id/tshirt_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="@string/tshirt_number"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="11dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+        </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

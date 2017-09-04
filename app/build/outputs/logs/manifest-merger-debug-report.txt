@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:2:1-174:12
+	package
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/mhosam/.android/build-cache/20a7b6279d1f0dfb053293ba4e036977a356cef7/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/388cbb975640403ffcc7ee2636222c3e5fc6f5d1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/mhosam/.android/build-cache/20a7b6279d1f0dfb053293ba4e036977a356cef7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/388cbb975640403ffcc7ee2636222c3e5fc6f5d1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/mhosam/.android/build-cache/20a7b6279d1f0dfb053293ba4e036977a356cef7/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/388cbb975640403ffcc7ee2636222c3e5fc6f5d1/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:12:22-65
+application
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:14:5-172:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mhosam/.android/build-cache/88894ed325636e30838282a3a30bed399ad5a446/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mhosam/.android/build-cache/afac8241f07ddc579ae3c0600dd1a3de67e086f6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/mhosam/.android/build-cache/5f0ddea483dbd54a9134b317ff50184d84acc623/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/mhosam/.android/build-cache/6d393d08b0019f4ed90be4ea7e02fa38090bceaf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/mhosam/.android/build-cache/20a7b6279d1f0dfb053293ba4e036977a356cef7/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] /Users/mhosam/.android/build-cache/7fb11a4c2d7af5662baca8c2ee03c002f4f5e08a/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/388cbb975640403ffcc7ee2636222c3e5fc6f5d1/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/mhosam/.android/build-cache/fc03e0df90999598615594040f7eaa613462ec14/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/mhosam/.android/build-cache/7cc646e0babd29258614b9180d90b239bbcf1903/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/mhosam/.android/build-cache/4f0549cc7a671e305da8dfd6577fbe2e37898d7a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] /Users/mhosam/.android/build-cache/ce880fa806195dcc3ffb43f9f37d40e9018ff337/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mhosam/.android/build-cache/6276fead641ec9203cd672fb91757f18c1dfdcc8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.0] /Users/mhosam/.android/build-cache/7a7883fa478c864fd542e851d113b8fb4d7b9b3a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/mhosam/.android/build-cache/1a91d1abfcc66ce6f2932abeb5a294991e8a64bf/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/mhosam/.android/build-cache/dd6c8578e5e1e29408f95c837ac0cce315c26ff9/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/mhosam/.android/build-cache/f4b821a374221d99274fbd88b25da8f226df8c2f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/mhosam/.android/build-cache/77e837952eca576ae2389ddbd93c4512e0f4e578/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mhosam/.android/build-cache/6036a210ab82ae7d6aae10b794017a822febd0da/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mhosam/.android/build-cache/3b8a887b356d1d0b54bc3c3783a1c934f96c137f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mhosam/.android/build-cache/c3a1085505fcfc0e2cb981d5e1f76f376428c875/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/mhosam/.android/build-cache/aaf3045cafac49f0a0bd1d5f90290356a21f179b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:20:9-35
+	android:allowBackup
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:17:9-39
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:21:9-40
+	android:logo
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:15:9-37
+activity#com.BuzzKora.SplashActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:23:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.BuzzKora.MainActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:34:9-38:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:36:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:35:13-41
+activity#com.BuzzKora.FollowActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:41:9-45:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:43:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:42:13-43
+activity#com.BuzzKora.SuperActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:49:9-53:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:51:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:50:13-42
+activity#com.BuzzKora.BrowserActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:55:9-59:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:57:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:56:13-44
+activity#com.BuzzKora.TeamActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:61:9-65:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:63:13-33
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:62:13-41
+activity#com.BuzzKora.LeagueActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:67:9-71:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:69:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:68:13-43
+activity#com.BuzzKora.ArticleActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:72:9-76:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:74:13-59
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:73:13-44
+activity#com.BuzzKora.RegisterActivityStepA
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:77:9-80:15
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:79:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:78:13-50
+activity#com.BuzzKora.RegisterActivityStepB
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:82:9-85:15
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:84:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:83:13-50
+activity#com.BuzzKora.RegisterActivityStepC
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:86:9-89:15
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:87:13-50
+activity#com.BuzzKora.MatchActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:90:9-94:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:92:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:93:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:91:13-42
+activity#com.BuzzKora.MatchCenterActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:95:9-99:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:97:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:98:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:96:13-48
+activity#com.BuzzKora.MatchDetailsActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:100:9-104:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:102:13-34
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:103:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:101:13-49
+activity#com.BuzzKora.VideoActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:105:9-109:59
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:108:13-34
+	android:configChanges
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:107:13-74
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:109:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:106:13-42
+activity#com.BuzzKora.FavoritActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:110:9-114:15
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:112:13-59
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:113:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:111:13-44
+service#com.BuzzKora.MyFirebaseMessagingService
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:117:9-121:19
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:117:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:118:13-120:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:119:17-78
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:119:25-75
+service#com.BuzzKora.MyFirebaseInstanceIDService
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:122:9-126:19
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:122:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:123:13-125:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:124:17-80
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:124:25-77
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:129:9-135:20
+	android:enabled
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:131:13-35
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:130:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:132:13-134:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:133:17-94
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:133:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:137:9-140:40
+	android:enabled
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:139:13-35
+	android:exported
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:138:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:146:9-152:20
+	android:exported
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:148:13-36
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:147:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:149:13-151:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:150:17-79
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:150:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:154:9-92
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:154:18-89
+activity#com.BuzzKora.FullscreenActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:156:9-160:54
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:159:13-62
+	android:configChanges
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:158:13-74
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:160:13-51
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:157:13-47
+activity#com.BuzzKora.ScrollingActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:161:9-164:59
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:163:13-61
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:164:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:162:13-46
+activity#com.BuzzKora.SettingsActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:165:9-167:63
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:167:13-60
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:166:13-45
+activity#com.BuzzKora.testActivity
+ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:168:9-171:68
+	android:label
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:170:13-56
+	android:theme
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:171:13-56
+	android:name
+		ADDED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml:169:13-41
+uses-sdk
+INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mhosam/.android/build-cache/88894ed325636e30838282a3a30bed399ad5a446/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mhosam/.android/build-cache/afac8241f07ddc579ae3c0600dd1a3de67e086f6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/mhosam/.android/build-cache/5f0ddea483dbd54a9134b317ff50184d84acc623/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/mhosam/.android/build-cache/8bd3425219384a699adc9f82295e2b5d73cf3f98/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/mhosam/.android/build-cache/6d393d08b0019f4ed90be4ea7e02fa38090bceaf/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.0] /Users/mhosam/.android/build-cache/bfc10f26a08c99fb1dcaa76c2cfcddbd753370b6/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.0] /Users/mhosam/.android/build-cache/d85cc04e0d77addbac731f918737059a403bc493/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.0] /Users/mhosam/.android/build-cache/6a2af0ba167e1b0a052c90071ef63e95e7533cd7/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.0] /Users/mhosam/.android/build-cache/4f65977ed59ff0274cb214efdd2a240026d3492a/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.0] /Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.0] /Users/mhosam/.android/build-cache/12327d75259fd8eb9b1663422c64db1dd2f93ef5/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/mhosam/.android/build-cache/20a7b6279d1f0dfb053293ba4e036977a356cef7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] /Users/mhosam/.android/build-cache/7fb11a4c2d7af5662baca8c2ee03c002f4f5e08a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/388cbb975640403ffcc7ee2636222c3e5fc6f5d1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] /Users/mhosam/.android/build-cache/85cde237ca731f43a6aa9e9130cce5e0345fc010/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/mhosam/.android/build-cache/fc03e0df90999598615594040f7eaa613462ec14/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/mhosam/.android/build-cache/7cc646e0babd29258614b9180d90b239bbcf1903/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/mhosam/.android/build-cache/4f0549cc7a671e305da8dfd6577fbe2e37898d7a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] /Users/mhosam/.android/build-cache/ce880fa806195dcc3ffb43f9f37d40e9018ff337/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mhosam/.android/build-cache/6276fead641ec9203cd672fb91757f18c1dfdcc8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] /Users/mhosam/.android/build-cache/7a7883fa478c864fd542e851d113b8fb4d7b9b3a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/mhosam/.android/build-cache/1a91d1abfcc66ce6f2932abeb5a294991e8a64bf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/mhosam/.android/build-cache/dd6c8578e5e1e29408f95c837ac0cce315c26ff9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/mhosam/.android/build-cache/f4b821a374221d99274fbd88b25da8f226df8c2f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/mhosam/.android/build-cache/77e837952eca576ae2389ddbd93c4512e0f4e578/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mhosam/.android/build-cache/6036a210ab82ae7d6aae10b794017a822febd0da/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mhosam/.android/build-cache/3b8a887b356d1d0b54bc3c3783a1c934f96c137f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mhosam/.android/build-cache/c3a1085505fcfc0e2cb981d5e1f76f376428c875/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/mhosam/.android/build-cache/aaf3045cafac49f0a0bd1d5f90290356a21f179b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/mhosam/.android/build-cache/afac8241f07ddc579ae3c0600dd1a3de67e086f6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/mhosam/.android/build-cache/5f0ddea483dbd54a9134b317ff50184d84acc623/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/mhosam/.android/build-cache/8bd3425219384a699adc9f82295e2b5d73cf3f98/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/mhosam/.android/build-cache/6d393d08b0019f4ed90be4ea7e02fa38090bceaf/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/mhosam/.android/build-cache/6276fead641ec9203cd672fb91757f18c1dfdcc8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/mhosam/.android/build-cache/f4b821a374221d99274fbd88b25da8f226df8c2f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/mhosam/.android/build-cache/77e837952eca576ae2389ddbd93c4512e0f4e578/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/mhosam/.android/build-cache/6036a210ab82ae7d6aae10b794017a822febd0da/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/mhosam/.android/build-cache/3b8a887b356d1d0b54bc3c3783a1c934f96c137f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/mhosam/.android/build-cache/c3a1085505fcfc0e2cb981d5e1f76f376428c875/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/mhosam/.android/build-cache/aaf3045cafac49f0a0bd1d5f90290356a21f179b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/mhosam/.android/build-cache/44a0ab05770d8e15165b6a17de4b2ec25abe9384/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/mhosam/.android/build-cache/7ad5adf6682510ada848eee84bb2cb0c41a743d2/output/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/mhosam/.android/build-cache/ce880fa806195dcc3ffb43f9f37d40e9018ff337/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/mhosam/.android/build-cache/ce880fa806195dcc3ffb43f9f37d40e9018ff337/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/mhosam/.android/build-cache/ce880fa806195dcc3ffb43f9f37d40e9018ff337/output/AndroidManifest.xml:23:18-87
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/mhosam/.android/build-cache/091ba6f30dca221066cfb34adde20cf4795544be/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/mhosam/.android/build-cache/c0cdbeeb470ce129e6aaa5069503289768b9c553/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/mhosam/.android/build-cache/659d32cbbfba3a9d5be55e463a977f23f448a8dd/output/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/mhosam/.android/build-cache/801bfe4ee2488cca569fde86998727758041b4cc/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/mhosam/.android/build-cache/dd6c8578e5e1e29408f95c837ac0cce315c26ff9/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/mhosam/.android/build-cache/dd6c8578e5e1e29408f95c837ac0cce315c26ff9/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/mhosam/.android/build-cache/dd6c8578e5e1e29408f95c837ac0cce315c26ff9/output/AndroidManifest.xml:20:20-65

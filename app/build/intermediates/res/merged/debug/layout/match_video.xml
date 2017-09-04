@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    >
+
+
+
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="10dp"
+        android:padding="3dp"
+        android:src="@drawable/ic_play"
+        android:background="@drawable/circle_background"
+
+        />
+
+
+    <TextView
+        android:id="@+id/VideoTitle"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:ellipsize="marquee"
+        android:maxLines="1"
+        android:text="Title"
+        android:paddingTop="3dp"
+        android:textColor="@color/cardTitle"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        />
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+

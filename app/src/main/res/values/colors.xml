@@ -1,6 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#0e1f3e</color>
+    <color name="colorPrimaryTransparent">#9e0e1f3e</color>
+    <color name="colorPrimaryDark">#0a1a36</color>
+    <color name="colorAccent">#F11b36</color>
+    <color name="branding">#F11b36</color>
+    <color name="brandingLight">#143574</color>
+    <color name="WindowBackground">#eceef2</color>
+    <color name="cardBG">#ffffff</color>
+    <color name="cardBGSelected">#ffffff</color>
+    <color name="cardTitle">#0e1f3e</color>
+    <color name="cardSub">#abb5c4</color>
+    <color name="flagBG">#ffffff</color>
+    <color name="flagStroke">#abb5c4</color>
+    <color name="ArticleBG">#FFFFFF</color>
+    <color name="ArticleTXT">#0e1f3e</color>
+    <color name="gray">#abb5c4</color>
+    <color name="wg">#abb5c4</color>
+
+    <color name="tabsBG">#ffffff</color>
+    <color name="tabsTXT">#abb5c4</color>
+    <color name="tabsTXTselected">#0e1f3e</color>
+
+    <color name="lableTXT">#ffffff</color>
+    <color name="lableBG">#F11b36</color>
+
+    <color name="BigCardDate">#ffffff</color>
+    <color name="BigcardTitle">#ffffff</color>
+
+
+    <color name="MatchcardBG">#ffffff</color>
+    <color name="MatchcardTeamName">#0a1a36</color>
+    <color name="MatchcardScore">#0a1a36</color>
+
+
+    <color name="MatchBG">#0e1f3e</color>
+    <color name="MatchTeamName">#ffffff</color>
+    <color name="MatchScore">#ffffff</color>
+    <color name="MatchStatus">#ffffff</color>
+    <color name="MatchLeague">#ffffff</color>
+
+    <color name="TimmerColor">#F11b36</color>
+    <color name="TimmerBG">#abb5c4</color>
+
+
+    <color name="calenderBG">#e30a1a36</color>
+    <color name="calenderActiveBG">#e2abb5c4</color>
+    <color name="calenderActiveTitle">#e30a1a36</color>
+    <color name="calenderTitle">#ffffff</color>
+
+
+    <color name="gerdiantStart">#163266</color>
+    <color name="gerdiantMiddle">#0e1f3e</color>
+
+
+    <color name="gerdiantStartTrans">#ba163266</color>
+    <color name="gerdiantMiddleTrans">#b70e1f3e</color>
+
+
+    <color name="FollowQuestion">#ffffff</color>
+
+
+    <color name="eventBG">#ffffff</color>
+    <color name="eventTitle">#0e1f3e</color>
+    <color name="eventSubTitle">#abb5c4</color>
+    <color name="eventTxt">#abb5c4</color>
+    <color name="timeline">#49abb5c4</color>
+    <color name="eventMin">#0e1f3e</color>
+    <color name="eventBorder">#49abb5c4</color>
+
+
+    <color name="lineUpBG">#ffffff</color>
+    <color name="lineUpName">#0e1f3e</color>
+    <color name="lineUpPosition">#abb5c4</color>
+    <color name="lineUpNumber">#abb5c4</color>
+
+
+    <color name="statsBG">#ffffff</color>
+    <color name="statsNumber">#0e1f3e</color>
+    <color name="statsTitle">#abb5c4</color>
+    <color name="statsProgress">#0e1f3e</color>
+    <color name="statsProgressBG">#abb5c4</color>
+    <color name="statsBorder">#49abb5c4</color>
+
+
+    <color name="tableBG">#ffffff</color>
+    <color name="tableHeaderBG">#0e1f3e</color>
+    <color name="tableHeaderTXT">#ffffff</color>
+    <color name="tableTXT">#abb5c4</color>
+    <color name="tableTeam">#0e1f3e</color>
+    <color name="tableTeamBG">#ffffff</color>
+    <color name="tablePoints">#0e1f3e</color>
+    <color name="tableBorder">#49abb5c4</color>
+
+
+    <color name="playerBG">#0e1f3e</color>
+    <color name="playerTXT">#ffffff</color>
+
+
+    <color name="pitchStart">#ffffff</color>
+    <color name="pitchEnd">#ffffff</color>
+
+
+    <color name="pitchFormation">#abb5c4</color>
+    <color name="lineupTabBG">#60ffffff</color>
+    <color name="lineubTabTXT">#0e1f3e</color>
+    <color name="lineupTabBGselected">#ffffff</color>
+    <color name="lineubTabTXTselected">#0e1f3e</color>
+
+    <color name="lineupBG">#ffffff</color>
+    <color name="lineupBorder">#49abb5c4</color>
+
+
+    <color name="lineupSub">#0e1f3e</color>
+    <color name="lineupSubBG">#eceef2</color>
+
+
+    <color name="win">#26f11b</color>
+    <color name="draw">#abb5c4</color>
+    <color name="lose">#F11b36</color>
+    <color name="formTXT">#ffffff</color>
+
+
+    <color name="RegisterBG">#ffffff</color>
+    <color name="RegisterTXT">#ffffff</color>
+    <color name="RegisterLeaguesTitles">#ffffff</color>
+    <color name="RegisterLeaguesBG">#0e1f3e</color>
+    <color name="RegisterLeaguesBGSelected">#F11b36</color>
+    <color name="RegisterItemTXT">#ffffff</color>
+    <color name="RegisterItemBG">#0e1f3e</color>
+    <color name="RegisterButtonBG">#F11b36</color>
+    <color name="RegisterButtonTXT">#ffffff</color>
+
+
+    <color name="MainMenuItemTXT">#ffffff</color>
+    <color name="MainMenuItemBG">#00ffffff</color>
+    <color name="MainMenuActiveTXT">#0e1f3e</color>
+    <color name="MainMenuActiveBG">#ffffff</color>
+
+    <color name="MenuItemTXT">#0e1f3e</color>
+    <color name="MenuItemBG">#ffffff</color>
+    <color name="MenuBG">#ffffff</color>
+
+
+    <color name="FavoritStripBG">#ffffff</color>
+    <color name="FavoritStripTXT">#0e1f3e</color>
+    <color name="FavoritCardBG">#ffffff</color>
+    <color name="FavoritCardTXT">#0e1f3e</color>
+
+
+    <color name="FollowButtonBG">#F11b36</color>
+    <color name="UnFollowButtonBG">#0e1f3e</color>
+    <color name="FollowButtonTXT">#ffffff</color>
+
+
+
+
+    <color name="menuTXT">#0e1f3e</color>
+
+
+
+
+
+
+
+
+
+
+
+
+    <color name="black_overlay">#66000000</color>
 </resources>

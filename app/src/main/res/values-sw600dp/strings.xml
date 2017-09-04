@@ -1,0 +1,4 @@
+<resources>
+    <integer name="news_number_of_col">2</integer>
+    <integer name="video_number_of_col">3</integer>
+</resources>

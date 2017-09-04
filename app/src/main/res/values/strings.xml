@@ -1,3 +1,423 @@
 <resources>
-    <string name="app_name">JsonParser</string>
+    <string name="app_name">buzzkora</string>
+    <string name="ga_trackingId" translatable="false">UA-104311057-1</string>
+    <string name="admob" translatable="false">ca-app-pub-9140602086033726~7335335596</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-9140602086033726/8780279207</string>
+    <string name="admob_banner_interstitial" translatable="false">ca-app-pub-9140602086033726/8818795894</string>
+    <string name="refresh">Reload</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <integer name="news_number_of_col">1</integer>
+    <integer name="video_number_of_col">2</integer>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="title_activity_article">ArticleActivity</string>
+
+    <string name="action_settings">الاعدادات</string>
+    <string name="Today">اليوم</string>
+    <string name="News">الأخبار</string>
+    <string name="Videos">الفيديو</string>
+    <string name="Schedule">مواعيد المباريات</string>
+    <string name="Livenow">مباشر</string>
+    <string name="Finished">انتهت</string>
+    <string name="Comingup">قادمة</string>
+    <string name="Highlights">شاهد ملخص المباراة</string>
+    <string name="more_news">اقرأ أيضا</string>
+    <string name="more_videos">شاهد أيضا</string>
+
+    <string name="view_source">اقرأ من المصدر</string>
+
+
+    <string name="fixtures">المواعيد</string>
+    <string name="results">النتائج</string>
+    <string name="tables">الترتيب</string>
+    <string name="squad">اللاعبون</string>
+    <string name="appearances_number">مرات اللعب</string>
+    <string name="goals_number">عدد الأهداف</string>
+    <string name="tshirt_number">رقم القميص</string>
+
+
+
+    <string name="super_match">مبارايات هامة</string>
+
+
+    <string name="goal">هدف</string>
+    <string name="assist">أسيسيت</string>
+    <string name="sub">تبديل</string>
+    <string name="yellow_card">كارت أصفر</string>
+    <string name="red_card">كارت أحمر</string>
+    <string name="pen_save">تصدي لركلة جزاء</string>
+    <string name="pen_miss">أضاع ركلة جزاء</string>
+    <string name="pen_goal">هدف من ركلة جزاء</string>
+    <string name="own_goal">هدف بالخطأ في مرماه</string>
+    <string name="so_goal">هدف من ركلة ترجيح</string>
+    <string name="so_miss">أضاع ركلة ترجيح</string>
+    <string name="kickoff">بداية المباراة</string>
+    <string name="fulltime">نهاية المباراة</string>
+    <string name="out">خروج</string>
+
+
+    <string name="first_half">الشوط الأول</string>
+    <string name="second_half">الشوط الثاني</string>
+    <string name="half_time">بين الشوطين</string>
+    <string name="ET_Pending">وقت إضافي</string>
+    <string name="ET_First_Half">الشوط الاضافي الأول</string>
+    <string name="ET_Second_Half">الشوط الاضافي الثاني</string>
+
+
+    <string name="rank">#</string>
+    <string name="team">الفريق</string>
+    <string name="played">لـ</string>
+    <string name="win">فـ</string>
+    <string name="draw">تـ</string>
+    <string name="lost">هـ</string>
+    <string name="pro">+</string>
+    <string name="against">-</string>
+    <string name="pts">نـ</string>
+
+
+    <string name="events">الأحداث</string>
+    <string name="stats">احصائيات</string>
+    <string name="lineup">التشكيل</string>
+    <string name="details">تفاصيل</string>
+    <string name="highlights">ملخصات</string>
+    <string name="standings">الترتيب</string>
+    <string name="h2h">مواجهات</string>
+
+
+    <string name="remove_follow_txt">إلغاء المتابعة</string>
+    <string name="follow_txt">متابعة</string>
+
+
+    <string name="League_News">الأخبار</string>
+    <string name="League_Videos">الفيديو</string>
+    <string name="League_Fixture">المواعيد</string>
+    <string name="League_Result">النتائج</string>
+    <string name="League_Table">الترتيب</string>
+    <string name="League_Stats">احصائيات</string>
+    <string name="League_Teams">الأندية</string>
+
+
+    <string name="sublist">البدلاء</string>
+
+
+    <string name="follow">تابع</string>
+
+
+    <string name="history_match_title_p1">آخر </string>
+    <string name="history_match_title_p2">مواجهات للفريقين</string>
+    <string name="history_team_p1">آخر </string>
+    <string name="history_team_p2"> مبارايات لفريق </string>
+    <string name="team_win">فوز</string>
+    <string name="team_draw">تعادل الفريقين</string>
+
+
+    <string name="favorit_select_title">فضلا قم بإختيار الدوريات والأندية المفضلة ..</string>
+
+    <string name="first_step">الخطوة الأولى</string>
+    <string name="second_step">الخطوة الثانية</string>
+    <string name="third_step">الخطوة الثالثة</string>
+
+
+    <string name="first_step_title">قم بإختيار نسختك المفضة</string>
+    <string name="second_step_title">فضلا قم بإختيار دورياتك المفضلة</string>
+    <string name="third_step_title">فضلا قم بإختيار الأندية التي ترغب بمتابعتها</string>
+
+
+    <string name="register_next">متابعة</string>
+
+    <string name="register_skip">تخطي</string>
+
+    <string name="register_previous">السابق</string>
+
+    <string name="register_thanks">شكرا </string>
+
+
+    <string name="settings">الاعدادات </string>
+
+
+    <string name="setting_general_GT">التنويهات </string>
+    <string name="setting_notification_general">جميع التنويهات </string>
+    <string name="setting_notification_general_txt">استلام اشعارات خاصة بالدوريات والأندية المفضلة </string>
+    <string name="setting_notification_GT">تنويهات المبارايات </string>
+    <string name="setting_notification_match">أحداث المباراة </string>
+    <string name="setting_notification_match_txt">استلام اشعارات بأحداث مبارايات الأندية المفضلة </string>
+    <string name="setting_notification_lineup"> تشكيل الفريقين </string>
+    <string name="setting_notification_lineup_txt">استلام اشعار قبل المباراة بالتشكيل الرسمي </string>
+    <string name="setting_notification_start">بداية المباراة </string>
+    <string name="setting_notification_start_txt">استلام اشعار عند بداية مباراة فريقك المفضل </string>
+    <string name="setting_notification_goals">الأهداف </string>
+    <string name="setting_notification_goals_txt">استلام اشعار عند تسجبل الأهداف </string>
+    <string name="setting_notification_end"> نهاية المباراة</string>
+    <string name="setting_notification_end_txt">استلام اشعار عند نهاية مباراة فريقك المفضل </string>
+    <string name="setting_notification_highlights">ملخصات وأهداف </string>
+    <string name="setting_notification_highlights_txt">استلام اشعار بفيديوهات المباراة </string>
+
+
+    <string name="setting_news_GNT">الاخبار العاجلة </string>
+    <string name="setting_notification_breakingnews">الأخبار العاجلة</string>
+    <string name="setting_notification_breakingnews_txt">استلام اشعار في حالة الاخبار العاجلة </string>
+    <string name="setting_notification_video">الفيديوهات </string>
+    <string name="setting_notification_video_desc">استلام اشعار في حالة الفيديوهات الهامة </string>
+
+
+    <string name="title_activity_favorit">FavoritActivity</string>
+    <string name="no_matches">لا توجد مبارايات اليوم</string>
+    <string name="no_videos">لا توجد فيديوهات</string>
+    <string name="no_news">لا توجد اخبار</string>
+    <string name="no_content">لا يوجد محتوى</string>
+
+
+    <string name="all_matches">كل المباريات</string>
+    <string name="my_matches">الفرق المفضلة فقط</string>
+
+
+
+
+    <string name="week">الأسبوع</string>
+
+
+
+
+
+
+    <string name="internet_connection_message"> فضلا تأكد من الاتصال بالانترنت</string>
+
+
+    <string name="register_step_a">الخطوة الأولى</string>
+    <string name="register_step_a_title">فضلا قم بإختيار دورياتك المفضلة</string>
+    <string name="register_step_b">الخطوة الثانية</string>
+    <string name="register_step_b_title">فضلا قم بإختيار الأندية التي ترغب بمتابعتها</string>
+    <string name="register_step_c">الخطوة الثالثة</string>
+    <string name="register_step_c_title">فضلا قم بإختيار المنتخبات المفضلة</string>
+
+
+    <string name="national_teams">المنتخبات الوطنية</string>
+    <string name="super_teams">فرق وأندية</string>
+
+
+    <string-array name="main_menu">
+        <item>البطولات والدوريات</item>
+        <item>الأندية المفضلة</item>
+        <item>المنتخبات المفضلة</item>
+        <item> مبارايات هامة</item>
+    </string-array>
+
+
+    <string-array name="favorit_array">
+        <item>ALLLEAGUES</item>
+        <item>EG</item>
+        <item>SA</item>
+        <item>AE</item>
+        <item>SP</item>
+        <item>EN</item>
+        <item>IT</item>
+        <item>FR</item>
+        <item>GR</item>
+
+        <item>FLAGS</item>
+    </string-array>
+
+    <string-array name="favorit_register_array">
+        <item>EG</item>
+        <item>SA</item>
+        <item>AE</item>
+        <item>SP</item>
+        <item>EN</item>
+        <item>IT</item>
+        <item>FR</item>
+        <item>GR</item>
+
+        <item>FLAGS</item>
+    </string-array>
+
+
+    <string-array name="favorit_register_keys">
+        <item>1046</item>
+        <item>8032</item>
+        <item>10063</item>
+        <item>590</item>
+        <item>589</item>
+        <item>593</item>
+        <item>594</item>
+        <item>592</item>
+
+        <item>521057</item>
+    </string-array>
+
+
+    <string-array name="favorit_titles">
+        <item>بطولات ودوريات</item>
+        <item>الاندية المصرية</item>
+        <item>الأندية السعودية</item>
+        <item>الأندية الاماراتية</item>
+        <item>الاندية الاسبانية</item>
+        <item>الأندية الانجليزية</item>
+        <item>الأندية الابطالية</item>
+        <item>الأندية الفرنسية</item>
+        <item>الأندية الالمانية</item>
+
+        <item>المنتخبات الوطنية</item>
+    </string-array>
+
+
+    <string-array name="register_short">
+        <item>EG</item>
+        <item>SA</item>
+        <item>AE</item>
+        <item>SP</item>
+        <item>EN</item>
+        <item>IT</item>
+        <item>FR</item>
+        <item>GR</item>
+
+    </string-array>
+
+
+    <string-array name="register_key">
+        <item>1046</item>
+        <item>8032</item>
+        <item>10063</item>
+        <item>590</item>
+        <item>589</item>
+        <item>593</item>
+        <item>594</item>
+        <item>592</item>
+
+    </string-array>
+
+
+    <string-array name="register_title">
+        <item>الاندية المصرية</item>
+        <item>الأندية السعودية</item>
+        <item>الأندية الاماراتية</item>
+        <item>الاندية الاسبانية</item>
+        <item>الأندية الانجليزية</item>
+        <item>الأندية الابطالية</item>
+        <item>الأندية الفرنسية</item>
+        <item>الأندية الالمانية</item>
+
+    </string-array>
+
+
+    <string-array name="register_array">
+        <item>LEAGUES</item>
+        <item>SUPER</item>
+    </string-array>
+
+
+    <string-array name="register_titles">
+        <item>فضلا قم بإختيار دورياتك المفضلة</item>
+        <item>فضلا قم بإختيار الأندية التي ترغب بمتابعتها</item>
+    </string-array>
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_settings">الإعدادات</string>
+
+
+    <string name="drawer_open">Settings</string>
+    <string name="drawer_close">Settings</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_country">Country</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">التنويهات</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_test">testActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="all">كل الدوريات</string>
+    <string name="EN">الدوري الإنجليزي</string>
+    <string name="SP">الدوري الأسباني</string>
+    <string name="GR">الدوري الألماني</string>
+    <string name="IT">الدوري الإيطالي</string>
+    <string name="FR">الدوري الفرنسي</string>
+    <string name="EG">الدوري المصري</string>
+    <string name="SA">الدوري السعودي</string>
+    <string name="AE">الدوري الإماراتي</string>
+
+
 </resources>

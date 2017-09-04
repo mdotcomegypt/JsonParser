@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+
+        <android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/swifeRefresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layoutDirection="rtl">
+
+
+
+
+
+
+
+
+            <android.support.v4.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lineUpHolder"
+                >
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:focusableInTouchMode="true"
+                    android:padding="10dp">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        android:orientation="horizontal"
+                        >
+
+
+
+                    <TextView
+                        android:id="@+id/home_lineup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:minWidth="140dp"
+                        android:maxLines="1"
+                        android:background="@color/tabsBG"
+                        android:text="Team Name"
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textColor="@color/tabsTXT" />
+
+
+                    <TextView
+                        android:id="@+id/away_lineup"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:minWidth="140dp"
+                        android:maxLines="1"
+                        android:background="@color/tabsBG"
+                        android:text="Team Name"
+                        android:gravity="center"
+                        android:textAlignment="center"
+                        android:textColor="@color/tabsTXT" />
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/cardBG"
+                    >
+
+
+                    <LinearLayout
+                        android:id="@+id/homeContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                    >
+
+
+
+
+                        <RelativeLayout
+                            android:id="@+id/homeField"
+                            android:layout_width="match_parent"
+                            android:layout_height="320dp"
+                            android:background="@drawable/pitch_transparent_background"
+                            android:layoutDirection="ltr" >
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/pitch_bg_trans"
+                                android:layout_margin="5dp"
+                                android:scaleType="fitXY"
+
+                                />
+
+
+
+                            </RelativeLayout>
+
+                        <TextView
+                            android:id="@+id/FormationA"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:letterSpacing="1.4"
+                            android:text="442"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/pitchFormation"
+                            android:textSize="16dp"
+                            android:textStyle="bold"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_margin="20dp"
+
+
+                            />
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+
+                            <android.support.v7.widget.RecyclerView
+                                android:id="@+id/LineupListViewA"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="right"
+                                android:layout_marginTop="10dp"
+                                android:nestedScrollingEnabled="false" />
+
+
+                            <TextView
+                                android:id="@+id/subtitleA"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:padding="10dp"
+                                android:textAlignment="gravity"
+                                android:textColor="@color/lineupSub"
+                                android:background="@color/lineupSubBG"
+                                android:text="@string/sublist"
+                                android:textSize="14dp"
+                                android:textStyle="bold"
+
+                                />
+
+
+                            <android.support.v7.widget.RecyclerView
+                                android:id="@+id/LineupListViewASub"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:nestedScrollingEnabled="false" />
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:id="@+id/awayContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                       >
+
+
+
+
+                        <RelativeLayout
+                            android:id="@+id/awayField"
+                            android:layout_width="match_parent"
+                            android:layout_height="320dp"
+                            android:background="@drawable/pitch_transparent_background"
+                            android:layoutDirection="ltr" >
+
+                            <ImageView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/pitch_bg_trans"
+                                android:layout_margin="5dp"
+                                android:scaleType="fitXY"
+
+                                />
+
+
+
+                        </RelativeLayout>
+
+                        <TextView
+                            android:id="@+id/FormationB"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:letterSpacing="1.4"
+                            android:text="442"
+                            android:textAlignment="gravity"
+                            android:textColor="@color/pitchFormation"
+                            android:textSize="16dp"
+                            android:textStyle="bold"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_margin="20dp"
+
+
+                            />
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+
+                            <android.support.v7.widget.RecyclerView
+                                android:id="@+id/LineupListViewB"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="right"
+                                android:layout_marginTop="10dp"
+                                android:nestedScrollingEnabled="false" />
+
+                            <TextView
+                                android:id="@+id/subtitleB"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="right"
+                                android:padding="10dp"
+                                android:textAlignment="gravity"
+                                android:textColor="@color/lineupSub"
+                                android:background="@color/lineupSubBG"
+                                android:textSize="14dp"
+                                android:text="@string/sublist"
+                                android:textStyle="bold"
+
+                                />
+
+
+                            <android.support.v7.widget.RecyclerView
+                                android:id="@+id/LineupListViewBSub"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:nestedScrollingEnabled="false" />
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                </LinearLayout>
+
+
+
+
+            </android.support.v4.widget.NestedScrollView>
+
+
+
+
+
+
+        </android.support.v4.widget.SwipeRefreshLayout>
+
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

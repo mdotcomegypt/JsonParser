@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/0495a452e3c4f5c213b447c2596a6a2a117de5c0/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable-v21/design_password_eye.xml"
+    }
+]

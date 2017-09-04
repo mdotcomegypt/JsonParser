@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="895a9fe66e2b5ad9662bbe991fff6faa922a11a4">
+        <dex dex="/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ca1fb8b147246041dd7c27e49368a55bf1ccfe86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef1baac5ec7461edac60720b98470a645a6f7500/classes.dex" />
+    </item>
+
+</items>

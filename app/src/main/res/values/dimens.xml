@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_margin">0dp</dimen>
+    <dimen name="card_radius">1dp</dimen>
+    <dimen name="card_image_height">220dp</dimen>
+    <dimen name="card_title_padding">10dp</dimen>
+    <dimen name="card_title">18sp</dimen>
+    <dimen name="card_author">12sp</dimen>
+    <dimen name="card_date">12sp</dimen>
+    <dimen name="card_width_overview">150dp</dimen>
+
+
+    <dimen name="activity_horizontal_margin">6dp</dimen>
+    <dimen name="activity_detail_horizontal_margin">18dp</dimen>
+    <dimen name="activity_vertical_margin">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+</resources>

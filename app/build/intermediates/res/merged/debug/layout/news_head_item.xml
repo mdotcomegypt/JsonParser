@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/line_news_item"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginLeft="0dip"
+    android:layout_marginRight="0dip"
+    android:layout_marginBottom="10dip"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:layout_marginTop="0dip">
+
+        <ImageView
+            android:id="@+id/NewsImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxHeight="@dimen/card_image_height"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="false"
+            android:src="@drawable/placeholder"
+            android:adjustViewBounds="true"
+            android:layout_marginBottom="2dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/NewsAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/branding"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="Author"
+            android:textColor="#000000"
+            android:textSize="@dimen/card_author"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="20dp" />
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/NewsDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:ellipsize="marquee"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/card_title_padding"
+        android:paddingRight="@dimen/card_title_padding"
+        android:paddingTop="10dp"
+        android:text="Date"
+        android:textColor="@color/branding"
+        android:textDirection="rtl"
+        android:textSize="@dimen/card_date" />
+
+    <TextView
+        android:id="@+id/NewsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:ellipsize="marquee"
+        android:maxLines="2"
+        android:paddingBottom="15dp"
+        android:paddingLeft="@dimen/card_title_padding"
+        android:paddingRight="@dimen/card_title_padding"
+        android:paddingTop="5dp"
+        android:text="Title"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/card_title"
+        android:textStyle="bold"
+        />
+
+
+
+</LinearLayout>
+
+

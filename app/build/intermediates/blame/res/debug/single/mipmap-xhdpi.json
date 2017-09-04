@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-xhdpi/luncher.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-xhdpi/luncher.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

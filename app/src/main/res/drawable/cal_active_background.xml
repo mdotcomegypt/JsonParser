@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Drop Shadow Stack -->
+
+    <item>
+        <shape>
+            <padding android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#10000000" />
+            <corners android:topLeftRadius="0dp" android:topRightRadius="0dp"
+                android:bottomLeftRadius="14dp" android:bottomRightRadius="14dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#15000000" />
+            <corners android:topLeftRadius="0dp" android:topRightRadius="0dp"
+                android:bottomLeftRadius="13dp" android:bottomRightRadius="13dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#20000000" />
+            <corners android:topLeftRadius="0dp" android:topRightRadius="0dp"
+                android:bottomLeftRadius="12dp" android:bottomRightRadius="12dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#25000000" />
+            <corners android:topLeftRadius="0dp" android:topRightRadius="0dp"
+                android:bottomLeftRadius="11dp" android:bottomRightRadius="11dp" />
+        </shape>
+    </item>
+
+    <!-- Background -->
+    <item>
+        <shape>
+            <solid android:color="@color/WindowBackground" />
+            <corners android:topLeftRadius="0dp" android:topRightRadius="0dp"
+                android:bottomLeftRadius="10dp" android:bottomRightRadius="10dp" />
+        </shape>
+    </item>
+</layer-list>

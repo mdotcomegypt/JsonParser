@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    android:background="@drawable/lineup_border_top">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="rtl"
+        android:orientation="horizontal">
+
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:elevation="14dp"
+            app:cardCornerRadius="20dp"
+            android:innerRadius="0dp"
+            android:shape="ring">
+            <ImageView
+                android:layout_height="40dp"
+                android:layout_width="match_parent"
+                android:id="@+id/image"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true">
+            </ImageView>
+        </android.support.v7.widget.CardView>
+
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:layoutDirection="ltr"
+            android:paddingRight="20dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="2dp"
+                android:layout_marginTop="5dp"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="Player Name"
+                android:textColor="@color/lineUpName"
+                android:textSize="12dp"
+
+                />
+
+            <TextView
+                android:id="@+id/position"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="5dp"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="position"
+                android:textColor="@color/lineUpPosition"
+                android:textSize="11dp"
+
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:gravity="left">
+
+
+            <TextView
+                android:id="@+id/number"
+                android:layout_width="35dp"
+                android:layout_height="match_parent"
+                android:ellipsize="marquee"
+                android:maxLines="1"
+                android:text="55"
+                android:textColor="@color/lineUpNumber"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:padding="3dp"
+
+                />
+        </RelativeLayout>
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

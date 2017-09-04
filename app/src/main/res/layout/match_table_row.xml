@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    >
+
+        <LinearLayout
+            android:id="@+id/tableHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@color/tableHeaderBG"
+            android:layoutDirection="rtl"
+            android:visibility="gone"
+            >
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="marquee"
+                    android:gravity="right"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="3dp"
+                    android:textAlignment="gravity"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="14dp" />
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/played"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/win"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/draw"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/lost"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/pro"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/against"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+
+                <TextView
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ellipsize="marquee"
+                    android:maxLines="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="2dp"
+                    android:text="@string/pts"
+                    android:textAlignment="center"
+                    android:textColor="@color/tableHeaderTXT"
+                    android:textSize="16dp" />
+
+
+        </LinearLayout>
+
+
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layoutDirection="rtl"
+android:layout_gravity="right"
+android:background="@drawable/table_border_top"
+android:paddingTop="1dp">
+
+
+
+<TextView
+    android:id="@+id/rank"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:text="#"
+    android:textAlignment="center"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tablePoints"
+    android:textSize="14dp"
+    android:textStyle="bold"
+    />
+
+<TextView
+    android:id="@+id/team"
+    android:layout_width="120dp"
+    android:layout_height="match_parent"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:text="Team"
+    android:textAlignment="gravity"
+    android:gravity="right|center"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="10dp"
+    android:textColor="@color/tableTeam"
+    android:background="@color/tableTeamBG"
+    android:textSize="12dp"
+    />
+
+
+<TextView
+    android:id="@+id/played"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tableTXT"
+    android:textSize="14dp"
+    />
+
+
+<TextView
+    android:id="@+id/win"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tableTXT"
+    android:textSize="14dp"
+    />
+
+
+<TextView
+    android:id="@+id/draw"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tableTXT"
+    android:textSize="14dp"
+    />
+
+
+<TextView
+    android:id="@+id/lost"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tableTXT"
+    android:textSize="14dp"
+    />
+
+
+<TextView
+    android:id="@+id/pro"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tableTXT"
+    android:textSize="14dp"
+    />
+
+<TextView
+    android:id="@+id/against"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="2dp"
+    android:textColor="@color/tableTXT"
+    android:textSize="14dp"
+    />
+
+
+<TextView
+    android:id="@+id/pts"
+    android:layout_width="0px"
+    android:layout_weight="1"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:maxLines="1"
+    android:textAlignment="center"
+    android:text="#"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:textColor="@color/tablePoints"
+    android:textSize="14dp"
+    android:textStyle="bold"
+    />
+
+
+
+
+
+
+
+
+</LinearLayout>
+        </LinearLayout>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_pengoal.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_pengoal.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_penmiss.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_penmiss.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_lineup.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_lineup.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_keyboard_arrow_left_white_24dp.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_goal.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_goal.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_schedule.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_schedule.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_keyboard_arrow_right_white_24dp.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_inout.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_inout.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_owngoal.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_owngoal.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_whistle.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_whistle.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_fulltime.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_fulltime.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icn_halftime.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/drawable-xxhdpi/icn_halftime.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Sep 04 10:05:17 AST 2017
+base.0=/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ca1fb8b147246041dd7c27e49368a55bf1ccfe86
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef1baac5ec7461edac60720b98470a645a6f7500/classes.dex
+base.1=/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef1baac5ec7461edac60720b98470a645a6f7500
+file.0=/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ca1fb8b147246041dd7c27e49368a55bf1ccfe86/classes.dex

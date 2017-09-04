@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/raw/buzzer.mp3",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/raw/buzzer.mp3"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/raw/glasss.mp3",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/raw/glasss.mp3"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/raw/nice.mp3",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/raw/nice.mp3"
+    }
+]

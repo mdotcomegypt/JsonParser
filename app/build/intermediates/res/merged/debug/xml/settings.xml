@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <PreferenceCategory android:title="@string/setting_general_GT" >
+
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="key_notification"
+            android:title="@string/setting_notification_general"
+            android:summary="@string/setting_notification_general_txt" >
+        </SwitchPreference>
+
+
+
+    </PreferenceCategory>
+
+    
+    
+    <PreferenceCategory android:title="@string/setting_notification_GT" >
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_match"
+            android:title="@string/setting_notification_match"
+            android:summary="@string/setting_notification_match_txt" >
+        </SwitchPreference>
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_lineup"
+            android:title="@string/setting_notification_lineup"
+            android:summary="@string/setting_notification_lineup_txt" >
+        </SwitchPreference>
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_start"
+            android:title="@string/setting_notification_start"
+            android:summary="@string/setting_notification_start_txt" >
+        </SwitchPreference>
+
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_goals"
+            android:title="@string/setting_notification_goals"
+            android:summary="@string/setting_notification_goals_txt" >
+        </SwitchPreference>
+
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_end"
+            android:title="@string/setting_notification_end"
+            android:summary="@string/setting_notification_end_txt" >
+        </SwitchPreference>
+
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_highlights"
+            android:title="@string/setting_notification_highlights"
+            android:summary="@string/setting_notification_highlights_txt" >
+        </SwitchPreference>
+       
+
+       
+    </PreferenceCategory>
+    
+    
+    
+    <PreferenceCategory android:title="@string/setting_news_GNT" >
+       
+        
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_breakingnews"
+            android:title="@string/setting_notification_breakingnews"
+            android:summary="@string/setting_notification_breakingnews_txt" >
+        </SwitchPreference>
+        
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notification_videos"
+            android:title="@string/setting_notification_video"
+            android:summary="@string/setting_notification_video_desc" >
+        </SwitchPreference>
+
+       
+    </PreferenceCategory>
+    
+    
+    
+
+</PreferenceScreen>

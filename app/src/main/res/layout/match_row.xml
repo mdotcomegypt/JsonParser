@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:cardBackgroundColor="@color/cardBG"
+        card_view:cardUseCompatPadding="true"
+        >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="rtl"
+        android:orientation="horizontal" >
+
+
+        <TextView
+            android:id="@+id/Date"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:maxLines="1"
+            android:text="19:30"
+            android:textColor="#fff"
+            android:textSize="14dp"
+            android:background="@color/branding"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:textAlignment="gravity"
+            android:layout_gravity="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/League"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="League Name"
+            android:textColor="#333"
+            android:visibility="gone"
+            android:textSize="12dp"
+            android:padding="5dp"
+            />
+
+
+        <TextView
+            android:id="@+id/TeamA"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:maxLines="1"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="Team A"
+            android:textAlignment="gravity"
+            android:textColor="#333"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/TeamAT"
+            android:layout_width="30dip"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:padding="5dp"
+            android:src="@drawable/placeholder" />
+
+        <TextView
+            android:id="@+id/Score"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="3 - 2"
+            android:textAlignment="gravity"
+            android:textDirection="ltr"
+            android:textColor="#333"
+            android:background="#eee"
+            android:textSize="14dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textStyle="bold"
+            />
+
+
+
+
+
+        <TextView
+            android:id="@+id/Status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:text="Live"
+            android:background="@color/branding"
+            android:maxLines="1"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="11sp"
+            android:visibility="gone"
+            android:layout_marginTop="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/TeamBT"
+            android:layout_width="30dip"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:padding="5dp"
+            android:src="@drawable/placeholder" />
+
+        <TextView
+            android:id="@+id/TeamB"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:maxLines="1"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp"
+            android:text="Team B"
+            android:textAlignment="gravity"
+            android:textColor="#333"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ScorersA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="Scoresrs a"
+            android:textColor="#333"
+            android:textSize="12dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:paddingLeft="10dp"
+            android:visibility="gone"
+            android:paddingRight="10dp"
+            />
+
+        <TextView
+            android:id="@+id/ScorersB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="Scoresrs b"
+            android:textColor="#333"
+            android:textSize="12dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            />
+
+        <TextView
+            android:id="@+id/Penality"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layoutDirection="rtl"
+            android:maxLines="1"
+            android:text="3 - 2"
+            android:textAlignment="center"
+            android:textColor="@color/branding"
+            android:textDirection="locale"
+            android:textSize="20dp"
+            android:visibility="gone"
+            android:textStyle="bold"
+            />
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+    </LinearLayout>

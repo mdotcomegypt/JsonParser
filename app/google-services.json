@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "517896897188",
+    "firebase_url": "https://buzzkora-6e5ce.firebaseio.com",
+    "project_id": "buzzkora-6e5ce",
+    "storage_bucket": "buzzkora-6e5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517896897188:android:987324392a104eb8",
+        "android_client_info": {
+          "package_name": "com.BuzzKora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517896897188-0t8s6g9ns0hc8l4ln010elr252mls8to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAphJY4K6oTfsUjcevum8YubretQOWt90g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,292 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@color/colorPrimary"
+                app:layout_collapseMode="parallax"
+                android:layout_gravity="right">
+
+
+
+                <android.support.v7.widget.LinearLayoutCompat
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:id="@+id/header"
+                    android:orientation="vertical"
+                    android:background="@color/colorPrimary"
+                    android:paddingBottom="20dip"
+                    android:paddingRight="20dp"
+                    android:paddingLeft="20dp">
+
+
+                    <TextView
+                        android:id="@+id/NewsTitle"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Title"
+                        android:textColor="#FFFFFF"
+                        android:textSize="20sp"
+                        android:paddingTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="30dp"
+                        android:textStyle="bold"
+                        />
+
+                    <android.support.v7.widget.LinearLayoutCompat
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_gravity="right"
+                        >
+
+
+
+                        <TextView
+                            android:id="@+id/NewsDate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="marquee"
+                            android:maxLines="1"
+                            android:padding="3dp"
+                            android:text="Date"
+                            android:textColor="#fff"
+                            android:textDirection="rtl"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            android:layout_alignParentTop="true"
+                            />
+
+                        <TextView
+                            android:id="@+id/NewsAuthor"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@color/branding"
+                            android:maxLines="1"
+                            android:paddingBottom="3dp"
+                            android:paddingTop="3dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="Author"
+                            android:layout_marginLeft="10dp"
+                            android:textColor="#fff"
+                            android:textSize="12sp"
+                            android:textStyle="bold"
+                            />
+                    </android.support.v7.widget.LinearLayoutCompat>
+
+
+
+
+
+
+
+
+                </android.support.v7.widget.LinearLayoutCompat>
+
+
+                <ImageView
+                    android:id="@+id/NewsImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/placeholder"
+                    android:fitsSystemWindows="true"
+                    android:scaleType="centerCrop"
+                    android:layout_below="@+id/header"
+                    app:layout_scrollFlags="scroll|exitUntilCollapsed"
+
+
+                    />
+
+
+
+
+
+
+            </RelativeLayout>
+
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:navigationIcon="?homeAsUpIndicator"
+                android:background="@android:color/transparent"
+                app:popupTheme="@style/AppTheme.PopupOverlay"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Toolbar Title"
+                    android:maxLines="1"
+                    android:paddingRight="10dp"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:id="@+id/toolbar_title" />
+
+
+
+
+            </android.support.v7.widget.Toolbar>
+
+
+
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        >
+
+
+        <LinearLayout
+            android:id="@+id/temp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:nestedScrollingEnabled="false"
+            android:clickable="true"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:id="@+id/NewsBody"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Body"
+                android:textColor="@color/ArticleTXT"
+                android:textSize="18sp"
+                android:paddingTop="40dp"
+                android:paddingBottom="20dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:lineSpacingExtra="5sp"
+                android:nestedScrollingEnabled="false"
+                android:textStyle="bold"
+                android:background="@color/ArticleBG"
+                />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/ArticleBG"
+                android:nestedScrollingEnabled="false"
+                android:padding="20dp">
+
+
+            <Button
+                android:id="@+id/source"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/rounded_button"
+                android:text="@string/view_source"
+                android:textAlignment="center"
+                android:textColor="@color/RegisterButtonTXT"
+
+                />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/ArticleBG"
+                android:nestedScrollingEnabled="false"
+                android:padding="20dp">
+
+
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:nestedScrollingEnabled="false"
+                ads:adSize="MEDIUM_RECTANGLE"
+                ads:adUnitId="@string/admob_banner_id">
+            </com.google.android.gms.ads.AdView>
+
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/MoreNewsTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/more_news"
+                android:textColor="@color/cardTitle"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/Newslistview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/NewsBody"
+                android:scrollbars="vertical"
+                android:paddingBottom="20dp"
+                android:nestedScrollingEnabled="false"
+                android:clipToPadding="false"/>
+        </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/share"
+        android:layout_margin="@dimen/fab_margin"
+        android:clickable="true"
+        android:src="@drawable/ic_share"
+        android:background="@color/branding"
+        app:layout_anchor="@+id/appbar"
+        app:layout_anchorGravity="bottom|right|end" />
+
+</android.support.design.widget.CoordinatorLayout>

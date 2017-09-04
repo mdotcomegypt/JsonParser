@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+   >
+
+
+
+
+
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/cardBGSelected"
+                android:orientation="horizontal"
+                android:paddingTop="10dp"
+
+                android:paddingBottom="10dp">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingTop="5dp"
+                    >
+
+                    <RelativeLayout
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/flag_background"
+                        android:padding="10dp">
+
+                        <ImageView
+                            android:id="@+id/TeamAT"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/placeholder" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/TeamA"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:maxLines="1"
+                        android:text="Team A"
+                        android:textAlignment="center"
+                        android:textColor="@color/cardTitle"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="center"
+                    android:padding="5dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/score_background"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:id="@+id/ScoreA"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layoutDirection="rtl"
+                            android:maxLines="1"
+                            android:paddingLeft="50dp"
+                            android:paddingRight="10dp"
+                            android:text="2"
+                            android:textAlignment="center"
+                            android:textColor="@color/cardTitle"
+                            android:textDirection="locale"
+                            android:textSize="20dp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/ScoreB"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layoutDirection="rtl"
+                            android:maxLines="1"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="50dp"
+                            android:text="4"
+                            android:textAlignment="center"
+                            android:textColor="@color/cardTitle"
+                            android:textDirection="locale"
+                            android:textSize="20dp"
+                            android:textStyle="bold" />
+
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/StatusHolder"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/status_background"
+                        android:gravity="center"
+                        android:maxLines="1"
+                        android:textColor="@color/branding"
+                        android:textStyle="bold">
+
+
+                        <RelativeLayout
+                            android:id="@+id/Live"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="0dp"
+                            android:visibility="gone">
+
+
+                            <ProgressBar
+                                android:id="@+id/timer_progress"
+                                style="?android:attr/progressBarStyleHorizontal"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_centerInParent="true"
+                                android:gravity="right"
+                                android:indeterminate="false"
+                                android:layoutDirection="ltr"
+                                android:max="90"
+                                android:padding="0dp"
+                                android:progressDrawable="@drawable/timer" />
+
+                            <TextView
+                                android:id="@+id/min"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                android:layout_marginTop="5dp"
+                                android:gravity="center"
+                                android:layoutDirection="rtl"
+                                android:maxLines="1"
+                                android:text="Status"
+                                android:textAlignment="center"
+                                android:textColor="@color/cardTitle"
+                                android:textSize="12dp"
+                                android:textStyle="bold" />
+
+
+                        </RelativeLayout>
+
+
+
+                        <TextView
+                            android:id="@+id/Status"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/statusIcon"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:layoutDirection="rtl"
+                            android:maxLines="1"
+                            android:text="Status"
+                            android:textAlignment="center"
+                            android:textColor="@color/cardTitle"
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
+
+
+                    </RelativeLayout>
+
+
+                    <TextView
+                        android:id="@+id/Score"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/score_background"
+                        android:gravity="center"
+                        android:layoutDirection="rtl"
+                        android:maxLines="1"
+                        android:text="3 - 2"
+                        android:textAlignment="center"
+                        android:textColor="@color/cardTitle"
+                        android:textDirection="locale"
+                        android:textSize="0dp"
+                        android:textStyle="bold"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/Penality"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layoutDirection="rtl"
+                        android:maxLines="1"
+                        android:text="3 - 2"
+                        android:textAlignment="center"
+                        android:textColor="@color/branding"
+                        android:textDirection="locale"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:visibility="gone" />
+
+
+                </RelativeLayout>
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/flag_background"
+                        android:padding="10dp">
+
+                        <ImageView
+                            android:id="@+id/TeamBT"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/placeholder" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/TeamB"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:maxLines="1"
+                        android:text="Team B"
+                        android:textAlignment="center"
+                        android:textColor="@color/cardTitle"
+                        android:textSize="12dp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

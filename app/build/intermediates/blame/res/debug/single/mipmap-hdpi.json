@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-hdpi/luncher.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-hdpi/luncher.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_play.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-hdpi/ic_play.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

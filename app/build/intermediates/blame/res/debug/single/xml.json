@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/xml/app_tracker.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/xml/app_tracker.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/src/main/res/xml/pref_notification.xml"
+    }
+]

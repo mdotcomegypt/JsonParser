@@ -1,0 +1,4 @@
+#Mon Sep 04 06:01:00 AST 2017
+base.0=/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

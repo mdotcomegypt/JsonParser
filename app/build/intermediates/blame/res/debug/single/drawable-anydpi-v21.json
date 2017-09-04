@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_play.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_controls_play.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_rewind.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_fastforward.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_pause.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_controls_pause.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/mhosam/.android/build-cache/d653e262455677e4844fed86f412c49ebd67d55f/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_next.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_controls_next.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/JsonParser/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/exo_controls_previous.xml",
+        "source": "/Users/mhosam/.android/build-cache/c112fcdedf14d3c5bfd50b9429fae9f5ebf1352a/output/res/drawable-anydpi-v21/exo_controls_previous.xml"
+    }
+]

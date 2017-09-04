@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jsonparser.mhosam.jsonparser.com.jsonparser.mhosam.BuzzKora.MainActivity">
+
+
+    <item
+        android:id="@+id/action_favorit"
+        android:orderInCategory="100"
+        android:title="@string/favorit_select_title"
+        android:icon="@drawable/icn_notification"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+</menu>
